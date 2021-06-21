@@ -1,1 +1,2 @@
-Zmiana w pliku.
+Inna wersja tego pliku nadpisze poprzednia
+Dodaje kolejna sciezke
